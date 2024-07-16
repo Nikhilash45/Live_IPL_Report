@@ -24,9 +24,6 @@ The IPL Dashboard offers cricket enthusiasts a comprehensive view of the tournam
 ## Contributing
 Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Feedback
 Your feedback is valuable! If you have any questions, suggestions, or encounter any issues, please feel free to reach out.
 
